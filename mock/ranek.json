@@ -1,0 +1,127 @@
+{
+  "users": [
+    {
+      "id": "kameron_park@email.com",
+      "email": "kameron_park@email.com",
+      "name": "Kameron Parker",
+      "password": "123",
+      "street": "Rua 2",
+      "cep": "35500000",
+      "neighborhood": "Santa Efigênia",
+      "number": "5",
+      "state": "MG",
+      "city": "Belo Horizonte"
+    },
+    {
+      "id": "doris_meyer@email.com",
+      "email": "doris_meyer@email.com",
+      "name": "Doris Meyer",
+      "password": "123",
+      "street": "Rua 2",
+      "cep": "35500000",
+      "neighborhood": "Santa Efigênia",
+      "number": "5",
+      "state": "MG",
+      "city": "Belo Horizonte"
+    },
+    {
+      "id": "jame@email.com",
+      "name": "Jame",
+      "email": "jame@email.com",
+      "password": "123",
+      "cep": "35501813",
+      "rua": "",
+      "number": "10",
+      "neighborhood": "Planalto",
+      "city": "Divinópolis",
+      "state": "MG",
+      "street": "Miguel Rodrigues Filho"
+    }
+  ],
+  "products": [
+    {
+      "id": "laptop",
+      "name": "Laptop",
+      "user_id": "kameron_park@email.com",
+      "price": "14999",
+      "sold": false,
+      "description": "Novo Macbook Air",
+      "photos": [
+        {
+          "source": "https://ranekapi.origamid.dev/wp-content/uploads/2019/03/notebook-1.jpg",
+          "title": "Laptop"
+        }
+      ]
+    },
+    {
+      "id": "smartphone",
+      "name": "Smartphone",
+      "user_id": "kameron_park@email.com",
+      "price": "8999",
+      "sold": false,
+      "description": "Novo iPhone 12",
+      "photos": [
+        {
+          "source": "https://ranekapi.origamid.dev/wp-content/uploads/2019/03/smartphone-1.jpg",
+          "title": "Smartphone"
+        }
+      ]
+    },
+    {
+      "id": "camera",
+      "name": "Câmera",
+      "user_id": "kameron_park@email.com",
+      "price": "2999",
+      "sold": false,
+      "description": "Canon sl3",
+      "photos": [
+        {
+          "source": "https://ranekapi.origamid.dev/wp-content/uploads/2019/03/camera.jpg",
+          "title": "Câmera"
+        }
+      ]
+    },
+    {
+      "id": "smartwatch",
+      "name": "Smartwatch",
+      "user_id": "kameron_park@email.com",
+      "price": "1200",
+      "sold": false,
+      "description": "Smartwatch Series 3",
+      "photos": [
+        {
+          "source": "https://ranekapi.origamid.dev/wp-content/uploads/2019/03/smartwatch-1.jpg",
+          "title": "Smartwatch"
+        }
+      ]
+    },
+    {
+      "id": "smartspeaker",
+      "name": "Smartspeaker",
+      "user_id": "kameron_park@email.com",
+      "price": "1200",
+      "sold": false,
+      "description": "Modelo em pré-lançamento",
+      "photos": [
+        {
+          "source": "https://ranekapi.origamid.dev/wp-content/uploads/2019/03/speaker.jpg",
+          "title": "Smartspeaker"
+        }
+      ]
+    },
+    {
+      "id": "ipad",
+      "name": "iPad",
+      "user_id": "kameron_park@email.com",
+      "price": "2350",
+      "sold": false,
+      "description": "iPad pro",
+      "photos": [
+        {
+          "source": "https://ranekapi.origamid.dev/wp-content/uploads/2019/03/tablet-1.jpg",
+          "title": "iPad"
+        }
+      ]
+    }
+  ]
+}
