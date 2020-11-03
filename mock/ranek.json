@@ -122,6 +122,20 @@
           "title": "iPad"
         }
       ]
+    },
+    {
+      "name": "PS5",
+      "price": "345",
+      "description": "Teste",
+      "photos": null,
+      "id": "-aODtjd"
+    },
+    {
+      "name": "PS5",
+      "price": "345",
+      "description": "Teste",
+      "photos": null,
+      "id": "BYhugHU"
     }
   ]
 }
